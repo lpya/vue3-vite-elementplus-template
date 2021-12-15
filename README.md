@@ -1,5 +1,5 @@
 ## 简介
-[vue3+vite+elemetnplus+tempalte](https://github.com/lpya/vue3-vite-elementplus-template)是一个常用配置的起手模板，它内置了vue3、ts、vuex、vue-router、vite、scss、elementplus、axios、eslint
+[vue3+vite+elemetnplus+tempalte](https://github.com/lpya/vue3-vite-elementplus-template)是一个常用配置的起手模板，它内置了vue3、ts、vite、vuex、vue-router、scss、elementplus、axios、eslint
 
 ## 开发
 
