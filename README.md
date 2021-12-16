@@ -1,17 +1,18 @@
-<div style="text-align:center">
+<p align="center">
   <h1>
     vue3+vite+elemetnplus+tempalte
   </h1>
-</div>
+</p>
 
-<div style="text-align:center">
+<p align="center">
   <img alt="vue" src="https://img.shields.io/badge/vue-v3.2.25-brightgreen" />
   <img alt="vite" src="https://img.shields.io/npm/v/vite?label=vite&logo=vite" />
   <img alt="element-plus" src="https://img.shields.io/npm/v/element-plus?label=element-plus" />
   <img alt="vue-router" src="https://img.shields.io/badge/vue--router-v4.0.12-green" />
   <img alt="vuex" src="https://img.shields.io/badge/vuex-v4.0.2-blue" />
   <img alt="axios" src="https://img.shields.io/npm/v/axios?label=axios" />
-</div>
+</p>
+
 ## 简介
 
 [vue3+vite+elemetnplus+tempalte](https://github.com/lpya/vue3-vite-elementplus-template)是一个常用配置的起手模板，它内置了vue3、ts、vite、vuex、vue-router、scss、elementplus、axios、eslint
